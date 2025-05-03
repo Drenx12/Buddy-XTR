@@ -7,9 +7,9 @@
   "stack": "container",
   "env": { 
     "SESSION_ID": {
-      "description": "Ensure your session Id starts with Buddy;;;",
+      "description": "Buddy;;;BRJ3CQYB#omhUJ5fM7G2FpFfI4QSzEm30AkoBgqsZCCzLW5IYTyY",
       "required": true,
-      "value": ""
+      "value": "true"
     },
     "MODE": {
       "description": "Set to 'public' or 'private' to define bot mode",
@@ -29,7 +29,7 @@
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number",
       "required": true,
-      "value": "263789085533"
+      "value": "27620206611"
     },
     "AUTO_READ": {
       "description": "Enable bot to auto-read messages (true/false)",
